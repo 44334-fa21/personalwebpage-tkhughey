@@ -1,1 +1,15 @@
 /*Personal Web Page Style Sheet */
+ body { background-color: #78B44F }
+ h1 { color: #ECEA98 }
+ h1 { background-color: #487521 }
+ h2 { color: #345616; background-color: #ECEA98}
+ p { font-family: arial }
+ ul { font-family: arial}
+ a { color: #ECEA98; }
+ a:hover{ color: #FFDA5B}
+ a:visited{color: #345616}
+ h1:hover{color: #FFDA5B}
+ .column {
+   float: left;
+   width: 50%;
+ }
